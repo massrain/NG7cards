@@ -1,0 +1,35 @@
+#headerText{
+    padding-top:20px;
+}
+
+#mainContainer{
+    padding-top:20px;
+}
+
+#nameInputLabel{
+    text-align:right
+}
+
+#nameInput{
+    padding-top: 5px;
+}
+
+#textInputDiv{
+    text-align:left
+}
+
+#currentNameText{
+    color:#dc3545
+}
+
+#currentNumberText{
+    color:#dc3545
+}
+
+#cardInputLabel{
+    text-align:right
+}
+
+#textInputDiv2{
+    text-align:left
+}
